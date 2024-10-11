@@ -1,4 +1,6 @@
 #powershell script for shutdown and startup windows server in azure multiple vm
+#steps - Automation Account, Create a Runbook, Create a Schedule, Link the Schedule to the Runbook
+
 #Prerequisites
 Install-Module -Name Az -AllowClobber -Scope CurrentUser
 Connect-AzAccount
