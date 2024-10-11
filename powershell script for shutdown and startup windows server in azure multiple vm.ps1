@@ -1,3 +1,5 @@
+#Author - Sadrul
+#LinkedIn Prifile- https://www.linkedin.com/in/sadrulalom/
 #powershell script for shutdown and startup windows server in azure multiple vm
 #steps - Automation Account, Create a Runbook, Create a Schedule, Link the Schedule to the Runbook
 
