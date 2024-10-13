@@ -2,6 +2,7 @@
 #LinkedIn Prifile- https://www.linkedin.com/in/sadrulalom/
 #powershell script for shutdown and startup windows server in azure multiple vm
 #steps - Automation Account, Create a Runbook, Create a Schedule, Link the Schedule to the Runbook
+# Here is the full code, you have to split it into two files -> Stop-MultipleAzureVMs.ps1 and Start-MultipleAzureVMs.ps1
 
 #Prerequisites - test from on-prem machine
 Install-Module -Name Az -AllowClobber -Scope CurrentUser
